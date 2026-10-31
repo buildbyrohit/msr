@@ -1,9 +1,0 @@
-{
-  "name": "MSR",
-  "iconUrl": "https://raw.githubusercontent.com/buildbyrohit/msr/builds/logo.png",
-  "description": "MobiStream Official Extension Repository (MSR)",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/buildbyrohit/msr/builds/plugins.json"
-  ]
-}
